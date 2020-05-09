@@ -1,6 +1,5 @@
 <span id="a">vinicius@viterbo</span>:<span id="b">~</span><span id="c">$</span> cd about/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">vinicius@viterbo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->viniciusvviterbo.txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
 
 Hey There! This is intended to become my personal website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
